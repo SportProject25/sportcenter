@@ -1,0 +1,96 @@
+10 Students reviews with ratings of 4 group exercise class.
+
+Yoga Class
+
+Student 1
+
+Very Well mainntianed Class Rooms.
+Satisfied
+
+Yoga Class is Awsome. 
+Very Satisfied
+
+Student 2
+
+Good Trainers Avilable.
+Very Satisfied
+
+Yoga Style is Old Fassion
+Ok
+
+
+
+Student 3
+
+Facilty Is good.
+Ok
+
+Yoga Class very impersive.
+Very Stisfied
+
+BoxFit Class
+
+Student 1
+
+Good Trainers Avilable.
+Very Satisfied
+
+The Box Fit Class is Awsome. 
+Very Satisfied
+
+Student 2
+
+
+Very Well maintianed Class Rooms.
+Satisfied
+
+Very Good
+Ok
+
+
+
+Student 3
+
+Teachers are very good
+Ok
+
+The technic of teching very impersive.
+Very Stisfied
+
+Zumba Class
+
+Student 1
+
+Good Trainers for mordern Zumba are avilable.
+Very Satisfied
+
+The Zumba Class is Awsome. 
+Satisfied
+
+Student 2
+
+
+Very Well maintianed Class Rooms.
+Satisfied
+
+Very Good
+Ok
+
+ Aquacise Class
+
+Student 1
+
+Well maintained swimming pool.
+Very Satisfied
+
+Swim Sut is avliable
+Satisfied
+
+Student 2
+
+
+Awsome Class Expriance 
+Satisfied
+
+Very Good
+Ok
